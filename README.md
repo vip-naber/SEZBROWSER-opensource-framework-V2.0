@@ -1,4 +1,4 @@
-# 🌐 SezBrowser v1.0 - Open Source Web Browser
+# 🌐 SezBrowser v2.0 - Open Source Web Browser
 
 Acrox Systems Labs tarafından geliştirilen, tamamen açık kaynaklı, hafif ve Chromium tabanlı güvenli web tarayıcısı iskeleti. Python ve PyQt5 mimarisi kullanılarak maksimum performans odaklı tasarlanmıştır.
 
